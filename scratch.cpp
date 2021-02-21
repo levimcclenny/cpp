@@ -5,7 +5,12 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "I'm a cool Program\n";
+    cout << "just tryna make it in a world of cool programs\n";
     return 0;
 }
+
