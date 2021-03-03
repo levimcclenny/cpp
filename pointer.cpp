@@ -23,7 +23,6 @@ int main(){
 
     int c = 3;
     int &d = c;
-
     cout << "c: value: " << c << ", address" << &c << endl;
     cout << "d: value: " << d << ", address" << &d << endl;
 
