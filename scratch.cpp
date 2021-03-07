@@ -12,7 +12,6 @@ void pr() {
     cout << "just tryna make it in a world of cool programs\n";
 }
 
-
 int main() {
     pr();
     cout << "Hello World!\n";
